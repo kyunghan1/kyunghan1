@@ -6,7 +6,6 @@ h1 {padding: 40px; text-align: center; font-size: 1.5em;}
 
 li a {text-decoration : none; color : #2d2f31;}
 
-
 nav {
   width : 300px; 
   background: #d9d9d9;
@@ -44,11 +43,8 @@ span::after {
 
 #touch:checked + .slide {height: 300px;}
 
-
-
-/* waves */
 .ocean {
-  height: 80px; /* change the height of the waves here */
+  height: 80px; 
   width: 100%;
   position: absolute;
   bottom: 0;
