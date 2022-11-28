@@ -83,5 +83,8 @@ span::after {
 
 footer{
   color:White;
-  position: relative;
+  position: sticky;
+  bottom: 0;
 }
+
+
