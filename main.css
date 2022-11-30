@@ -76,6 +76,7 @@ nav ul li:hover ul {
   right: 0;
   overflow-x: hidden;
   
+  
 }
 
 .wave {
@@ -86,6 +87,7 @@ nav ul li:hover ul {
   animation: wave 10s -3s linear infinite;
   transform: translate3d(0, 0, 0);
   opacity: 0.8;
+  
 }
 
 .wave:nth-of-type(2) {
@@ -117,7 +119,7 @@ nav ul li:hover ul {
 
 .section {
   margin-left: 301px;
-  
+  list-style: none;
   padding: 20px;
 }
 

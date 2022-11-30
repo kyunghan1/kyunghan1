@@ -1,4 +1,6 @@
 
+  div { border: 1px red solid;}
+  
   a {text-decoration-line: none;
     color: black;}
   
@@ -117,7 +119,7 @@
   }
   
   .section {
-    
+    list-style: none;
     margin-left: 301px;
     padding-bottom: 80px;
     
